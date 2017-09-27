@@ -1,0 +1,15 @@
+Source: eta-icon-theme
+Section: kde
+Priority: optional
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: http://pardus.org.tr
+
+Package: eta-icon-theme
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Etkileşimli Tahta Arayüzü Simge Teması
+ İçerisinde simge temasını barındıran ETAP a özel bir
+ tema paketi.
