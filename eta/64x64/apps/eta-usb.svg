@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="usb-creator.svg">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="268"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#b7b7b7"
+     d="m12 6h40v20h-40z"
+     id="path4" />
+  <rect
+     style="fill:#4f4f4f"
+     width="56"
+     height="34"
+     x="4"
+     y="24"
+     rx="2.8"
+     ry="2.834"
+     id="rect6" />
+  <g
+     style="opacity:.4"
+     transform="scale(2)"
+     id="g8">
+    <rect
+       width="16"
+       height="2"
+       x="8"
+       y="16"
+       id="rect10" />
+    <rect
+       width="12"
+       height="2"
+       x="10"
+       y="20"
+       id="rect12" />
+    <rect
+       width="8"
+       height="2"
+       x="12"
+       y="24"
+       id="rect14" />
+  </g>
+  <path
+     style="opacity:.2"
+     d="m4 55.167969v1c0 1.57 1.2496033 2.832031 2.8007812 2.832031h50.398438c1.549978 0 2.800781-1.262031 2.800781-2.832031v-1c0 1.57-1.250803 2.832031-2.800781 2.832031h-50.398438c-1.5511777 0-2.800781-1.262031-2.800781-2.832031z"
+     id="path16" />
+  <path
+     style="opacity:.2;fill:#ffffff"
+     d="m12 6v1h40v-1h-40z"
+     id="path18" />
+  <rect
+     style="opacity:.5"
+     width="10"
+     height="6"
+     x="16"
+     y="10"
+     id="rect26" />
+  <rect
+     style="opacity:.5"
+     width="10"
+     height="6"
+     x="38"
+     y="10"
+     id="rect28" />
+</svg>
