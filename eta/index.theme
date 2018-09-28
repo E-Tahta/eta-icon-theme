@@ -1,6 +1,8 @@
 [Icon Theme]
-Name= Eta Icon Theme
+Name=Eta
+Name[tr]=Eta
 Comment=eta icon theme for Interactive White Boards. Uses papirus.
+Comment[tr]=Etkileşimli tahtalar için eta simge teması. papirus örnek alındı.
 Inherits=breeze,gnome,hicolor
 
 Example=folder
