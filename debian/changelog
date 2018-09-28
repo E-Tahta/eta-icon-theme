@@ -1,3 +1,9 @@
+eta-icon-theme (2.1) unstable; urgency=medium
+
+  * Pardus CI integration
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 28 Sep 2018 15:45:28 +0300
+
 eta-icon-theme (2.0) unstable; urgency=medium
 
   * Renew the icon set and bump the version
