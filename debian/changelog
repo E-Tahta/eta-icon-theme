@@ -1,3 +1,9 @@
+eta-icon-theme (2.0) unstable; urgency=medium
+
+  * Renew the icon set and bump the version
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 28 Sep 2018 15:37:09 +0300
+
 eta-icon-theme (1.0) unstable; urgency=medium
 
   * Initial release.
