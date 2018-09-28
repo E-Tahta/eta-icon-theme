@@ -1,3 +1,9 @@
+eta-icon-theme (2.2) unstable; urgency=medium
+
+  * Update index.theme
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 28 Sep 2018 16:45:12 +0300
+
 eta-icon-theme (2.1) unstable; urgency=medium
 
   * Pardus CI integration
