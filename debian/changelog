@@ -1,3 +1,9 @@
+eta-icon-theme (2.3) unstable; urgency=medium
+
+  * Fix icons for light surfaces
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 04 Oct 2018 14:58:38 +0300
+
 eta-icon-theme (2.2) unstable; urgency=medium
 
   * Update index.theme
